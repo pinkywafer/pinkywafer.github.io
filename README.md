@@ -1,3 +1,2 @@
 # pinkywafer
-
-Coming soon!
+pinkywafer.com website
